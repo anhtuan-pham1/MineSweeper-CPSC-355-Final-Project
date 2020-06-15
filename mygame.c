@@ -1,5 +1,4 @@
 /*Anh Tuan Pham
-*30092540
 *Clarification: This is the game with the bonus. I want to clarify some value before you go into my code:
 *The bonus time if the player get the time packet is 10s
 *There is only 1 of each type of suprised
