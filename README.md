@@ -1,5 +1,5 @@
 # CPSC 355 Final Project in C: Card Game
-The basic card game based on minesweeper
+The basic card game based on minesweeper I created for my CPSC 355 Computing Machinery 1 class. 
 
 # Instructions:
 
